@@ -1,4 +1,4 @@
-# BioInformatcs
+# Bioinformatics
 HTCondor and Python Trimmomatic
 
 # TRIMOMMATICS
